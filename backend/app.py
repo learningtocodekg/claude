@@ -121,7 +121,7 @@ Filter to high-potential only. Be realistic, not speculative. JSON only—no ext
 
     try:
         message = anthropic.messages.create(
-            model="model="claude-sonnet-4-20250514",",
+            model="claude-sonnet-4-20250514",
             max_tokens=1500,
             temperature=0.3,
             messages=[
