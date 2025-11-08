@@ -98,12 +98,7 @@ The app will be available at `http://localhost:3000`
 3. **Click "Run Analysis"** to fetch headlines and analyze with AI
 4. **View insights** in the dashboard grid
 
-## Demo Tips
 
-- **For Hackathons**: The app works with sample data if API keys aren't configured, so you can demo even without keys
-- **Live Demo**: Click the button and show judges the loading state → results flow
-- **Explain the Flow**: "We fetch headlines, send them to Claude AI, and get actionable trading insights"
-- **Show Features**: Point out the recommendation badges, rationale, and Robinhood links
 
 ## Project Structure
 
