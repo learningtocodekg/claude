@@ -1,6 +1,6 @@
 # AI Trading Insights
 
-A hackathon-ready demo app that analyzes recent business/finance headlines using AI to identify potential trading opportunities for US stocks and index funds.
+An app that analyzes recent business/finance headlines using AI to identify potential trading opportunities for US stocks and index funds.
 
 ## Overview
 
@@ -9,7 +9,6 @@ This app demonstrates a complete AI-powered workflow:
 2. Analyzes them with Claude (Anthropic AI) to extract trading insights
 3. Displays actionable recommendations in a clean, responsive dashboard
 
-Perfect for hackathon demos—click a button and see live analysis results in ~30 seconds!
 
 ## Features
 
